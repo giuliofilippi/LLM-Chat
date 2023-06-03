@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+networkx
+langchain
+python-dotenv
+transformers[torch]
